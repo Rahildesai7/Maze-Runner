@@ -1,0 +1,38 @@
+Start cave: 23
+End cave: 13
+
+Enter player's name:
+Rahil
+Rahil is currently at 23 with 3 arrows.
+Rahil has not collected any treasure.
+{Rubies=1}
+What would you like to pick?
+Rubies
+Treasure collected
+
+Arrow available, press 'y' to pick
+y
+Arrow collected
+Do you want to shoot? Press 'y' to shoot
+n
+From here the player can move : 
+EAST
+WEST
+SOUTH
+Enter direction:
+SOUTH
+Rahil is currently at 3 with 4 arrows.
+Rahil has collected: 
+1 Rubies
+Arrow available, press 'y' to pick
+y
+Arrow collected
+You smell something terrible nearby
+Do you want to shoot? Press 'y' to shoot
+n
+From here the player can move : 
+EAST
+NORTH
+Enter direction:
+EAST
+Player killed by Monster because of this move. Better luck next time

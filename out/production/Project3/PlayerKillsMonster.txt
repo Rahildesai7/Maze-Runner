@@ -1,0 +1,122 @@
+Start cave: 23
+End cave: 13
+
+Enter player's name:
+Rahil
+Rahil is currently at 23 with 3 arrows.
+Rahil has not collected any treasure.
+{Rubies=1}
+What would you like to pick?
+Rubies
+Treasure collected
+
+Arrow available, press 'y' to pick
+y
+Arrow collected
+Do you want to shoot? Press 'y' to shoot
+y
+Enter distance
+1
+Enter direction
+SOUTH
+direction: EAST
+You damaged a monster
+From here the player can move : 
+EAST
+WEST
+SOUTH
+Enter direction:
+SOUTH
+Rahil is currently at 3 with 3 arrows.
+Rahil has collected: 
+1 Rubies
+Arrow available, press 'y' to pick
+y
+Arrow collected
+You smell something terrible nearby
+Do you want to shoot? Press 'y' to shoot
+y
+Enter distance
+1
+Enter direction
+EAST
+You killed a monster
+From here the player can move : 
+EAST
+NORTH
+Enter direction:
+EAST
+Rahil is currently at 4 with 3 arrows.
+Rahil has collected: 
+1 Rubies
+Arrow available, press 'y' to pick
+y
+Arrow collected
+You smell something nearby
+Do you want to shoot? Press 'y' to shoot
+1
+From here the player can move : 
+EAST
+WEST
+SOUTH
+Enter direction:
+SOUTH
+Rahil is currently at 9 with 4 arrows.
+Rahil has collected: 
+1 Rubies
+{Rubies=1}
+What would you like to pick?
+Rubies
+Treasure collected
+
+Arrow available, press 'y' to pick
+y
+Arrow collected
+You smell something terrible nearby
+Do you want to shoot? Press 'y' to shoot
+y
+Enter distance
+1
+Enter direction
+SOUTH
+You damaged a monster
+From here the player can move : 
+EAST
+NORTH
+SOUTH
+Enter direction:
+SOUTH
+Rahil is currently at 14 with 4 arrows.
+Rahil has collected: 
+2 Rubies
+{Rubies=1, Sapphire=1}
+What would you like to pick?
+Sapphire
+Treasure collected
+
+You smell something terrible nearby
+Do you want to shoot? Press 'y' to shoot
+y
+Enter distance
+1
+Enter direction
+WEST
+You damaged a monster
+From here the player can move : 
+WEST
+NORTH
+SOUTH
+Enter direction:
+WEST
+Rahil is currently at 13 with 3 arrows.
+Rahil has collected: 
+2 Rubies
+1 Sapphire
+You smell something terrible nearby
+Do you want to shoot? Press 'y' to shoot
+n
+Reached end cave
+
+Rahil has collected: 
+2 Rubies
+1 Sapphire

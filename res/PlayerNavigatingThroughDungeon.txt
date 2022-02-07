@@ -1,0 +1,160 @@
+Start cave: 23
+End cave: 13
+
+Enter player's name:
+Rahil
+Rahil is currently at 23 with 3 arrows.
+Rahil has not collected any treasure.
+Do you want to shoot? Press 'y' to shoot
+y
+Enter distance
+4
+Enter direction
+SOUTH
+direction: EAST
+direction: NORTH
+You hit in darkness
+From here the player can move : 
+EAST
+WEST
+SOUTH
+Enter direction:
+EAST
+Rahil is currently at 24 with 2 arrows.
+Rahil has not collected any treasure.
+Do you want to shoot? Press 'y' to shoot
+y
+Enter distance
+4
+Enter direction
+SOUTH
+You hit in darkness
+From here the player can move : 
+EAST
+WEST
+Enter direction:
+EAST
+Rahil is currently at 20 with 1 arrows.
+Rahil has not collected any treasure.
+Do you want to shoot? Press 'y' to shoot
+y
+Enter distance
+2
+Enter direction
+EAST
+You hit in darkness
+From here the player can move : 
+WEST
+SOUTH
+Enter direction:
+SOUTH
+Rahil is currently at 0 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+EAST
+WEST
+NORTH
+Enter direction:
+EAST
+Rahil is currently at 1 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+EAST
+WEST
+NORTH
+SOUTH
+Enter direction:
+EAST
+Rahil is currently at 2 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+WEST
+NORTH
+Enter direction:
+WEST
+Rahil is currently at 1 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+EAST
+WEST
+NORTH
+SOUTH
+Enter direction:
+SOUTH
+Rahil is currently at 6 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+WEST
+NORTH
+SOUTH
+Enter direction:
+SOUTH
+Rahil is currently at 11 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+EAST
+NORTH
+Enter direction:
+EAST
+Rahil is currently at 12 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+WEST
+Enter direction:
+WEST
+Rahil is currently at 11 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+EAST
+NORTH
+Enter direction:
+NORTH
+Rahil is currently at 6 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+WEST
+NORTH
+SOUTH
+Enter direction:
+WEST
+Rahil is currently at 5 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+EAST
+WEST
+Enter direction:
+WEST
+Rahil is currently at 9 with 0 arrows.
+Rahil has not collected any treasure.
+From here the player can move : 
+EAST
+NORTH
+SOUTH
+Enter direction:
+SOUTH
+Rahil is currently at 14 with 0 arrows.
+Rahil has not collected any treasure.
+You smell something terrible nearby
+From here the player can move : 
+WEST
+NORTH
+SOUTH
+Enter direction:
+SOUTH
+Rahil is currently at 19 with 0 arrows.
+Rahil has not collected any treasure.
+You smell something nearby
+From here the player can move : 
+WEST
+NORTH
+Enter direction:
+WEST
+Rahil is currently at 18 with 0 arrows.
+Rahil has not collected any treasure.
+You smell something terrible nearby
+From here the player can move : 
+EAST
+NORTH
+Enter direction:
+NORTH
+Player killed by Monster because of this move. Better luck next time
