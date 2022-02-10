@@ -73,15 +73,11 @@ The output displays:
     ![alt text](./res/readmeImg/readme7.png)
    
 
-8. Monster damaged due to arrow hit.
-    ![alt text](./res/readmeImg/readme8.png)
-   
-
-9. Player surpassed damaged monster.
+8. Player surpassed damaged monster.
     ![alt text](./res/readmeImg/readme9.png)
    
 
-10. Player killed by the monster and game ends.
+9. Player killed by the monster and game ends.
     ![alt text](./res/readmeImg/readme10.png)
 
 ### Assumptions:
